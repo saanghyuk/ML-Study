@@ -9,11 +9,18 @@
 * Record: https://www.notion.so/Traffic_Information_Analysis-d1817bfb99ea40d9bfe097bcedc78b54
 
   ```
+  master -> branch
   git checkout -b [branch name]
   git checkout master
   git pull
   git checkout [branch name]
   git merge master
+
+  branch -> master
+  git checkout master
+  git merge sanghyuk
+  git push
+
 
   ```
 
