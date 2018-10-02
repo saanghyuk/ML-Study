@@ -1,4 +1,4 @@
-# This Repository is for ML Practice
+# This Repository is for ML Study
 
 # 2018/09
 
