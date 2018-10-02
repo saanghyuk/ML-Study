@@ -1,5 +1,4 @@
 # Titanic Feedback
----
 
 ## 2019/10/02 Tue
 
@@ -34,7 +33,7 @@
 
     ![](Untitled-b640cce5-0155-4133-9aee-60705bb6c154.png)
 
-    Correlation은 Continuous Value를 대 전제로 한다. 
+    Correlation은 Continuous Value를 전제로 한다. 
 
     현재 0과 1의 Categorical 데이터 이기 때문에 굳이 Correlation을 계산해서 
 
