@@ -80,4 +80,4 @@
 
     한번에 500개씩 넣고 할 필요가 없음. 범위를 점점 좁히는 작업.
 
-    - [ ]  *Random Search CV 찾아보기!*
+    - [x]  *Random Search CV 찾아보기!*
